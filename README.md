@@ -1,7 +1,11 @@
 # Clinical Data Analytics Dashboard (Power BI)
 
-## 📸 Dashboard Preview
-![Clinical Dashboard Preview](images/clinical_dashboard_preview.png)
+## Dashboard Preview
+![Clinical Dashboard Preview](portada_clinical_data_analytics.png)
+![Clinical Dashboard Preview](patient_date_clinical_data_analytics.png)
+![Clinical Dashboard Preview](general_data_clinical_data_analytics.png)
+![Clinical Dashboard Preview](additional_patientdata_clinical_data_analytics.png)
+![Clinical Dashboard Preview](Tooltip_linechart_clinical_data_analytics.png)
 
 ---
 
